@@ -1,4 +1,4 @@
-You can quickly get started with Bootstrap with nothing do download using the following template:
+You can get started quickly with Bootstrap with nothing:
 
 ```html
 <!DOCTYPE html>
@@ -35,5 +35,5 @@ You can quickly get started with Bootstrap with nothing do download using the fo
 </html>
 ```
 
-Just create an index.html file in your new folder project, copy paste
-ours and start hacking!
+Just create an index.html file in your new project, copy paste
+ours and start!
