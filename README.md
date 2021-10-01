@@ -8,7 +8,7 @@ You can quickly get started with Bootstrap with nothing do download using the fo
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>--- TODO ---</title>
+    <title> PAGE TITLE </title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/fontawesome.min.css">
@@ -24,7 +24,7 @@ You can quickly get started with Bootstrap with nothing do download using the fo
 
 
 
-    <!-- TODO: Here goes your content! -->
+    <!-- Here goes your content! -->
 
 
 
